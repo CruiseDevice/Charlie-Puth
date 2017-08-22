@@ -1,0 +1,14 @@
+{
+  "name": "charlieputh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Akash Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
